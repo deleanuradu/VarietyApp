@@ -43,6 +43,7 @@
         android:layout_height="84dp"
         android:layout_marginBottom="48dp"
         android:text="@string/button_see"
+        android:onClick="startSecondActivity"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
