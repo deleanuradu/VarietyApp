@@ -3,4 +3,5 @@
     <string name="start_title">Welcome to VarietyApp! Clean Code Only!</string>
     <string name="start_desc">This is a fancy todo lists app. Enjoy your stay and add a little spice to your boring peasant life!</string>
     <string name="button_see">See Lists</string>
+    <string name="title_activity_master_list">MasterListActivity</string>
 </resources>
