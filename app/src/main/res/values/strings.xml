@@ -4,4 +4,8 @@
     <string name="start_desc">This is a fancy todo lists app. Enjoy your stay and add a little spice to your boring peasant life!</string>
     <string name="button_see">See Lists</string>
     <string name="title_activity_master_list">MasterListActivity</string>
+    <string name="title_hint">Enter title</string>
+    <string name="description_hint">Enter a description</string>
+    <string name="add_label">Add</string>
+    <string name="reset_label">Reset</string>
 </resources>
