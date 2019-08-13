@@ -40,4 +40,10 @@ public class MasterListActivity extends AppCompatActivity {
 
     }
 
+    public void startListActivity(View view) {
+        Intent intent = new Intent(this, ListActivity.class);
+        String sent = text1.getText().toString();
+        intent.putExtra("key", sent);
+        startActivity(intent);
+    }
 }

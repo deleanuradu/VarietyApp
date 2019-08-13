@@ -17,6 +17,8 @@
         android:text=""
         android:textAlignment="center"
         android:textSize="36dp"
+        android:onClick="startListActivity"
+        android:clickable="true"
         android:visibility="invisible"
         />
 
